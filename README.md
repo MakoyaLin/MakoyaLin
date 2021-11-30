@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MakoyaLin
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning C language
+- 👀 在好好学习
+- 🌱 在努力学习
 
 
 <!---
